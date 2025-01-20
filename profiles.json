@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "photo": "/john.jpeg",
+      "description": "Software Engineer from NY",
+      "address": "123 Main St, New York, NY",
+      "latitude": 40.712776,
+      "longitude": -74.005974,
+      "details": "Loves coding and coffee."
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "photo": "/jane.jpeg",
+      "description": "Designer from LA",
+      "address": "456 Market St, Los Angeles, CA",
+      "details": "Passionate about UI/UX design.",
+      "latitude": 34.052235,
+      "longitude": -118.243683
+    }
+  ]
+  
